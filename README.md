@@ -1,4 +1,4 @@
-#Akoya: A Modern Culinary Experience
+# Akoya: A Modern Culinary Experience
 
 Akoya is a captivating restaurant website that offers a seamless online dining experience. It showcases the restaurant's exquisite menu, elegant ambiance, and convenient reservation system.
 
